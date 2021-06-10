@@ -1,7 +1,7 @@
 # cse210-tc03
 <h1>CSE210 Team Challenge 03</h1>
 
-<h2>Eli<h2>
+<h2>Eli</h2>
 <p>
 Hi, as the header states I'm Eil. I've been coding since I was about 7-8 and I spend too much of my time doing it. 
 I'm currenly working for the VR startup Megadodo simulation games as the lead game dev. 
