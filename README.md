@@ -2,6 +2,12 @@
 CSE210 Team Challenge 03
 
 
+##Eli <br>
+Hi, as the header states I'm Eil. I've been coding since I was about 7-8 and I spend too much of my time doing it. 
+I'm currenly working for the VR startup Megadodo simulation games as the lead game dev. 
+I've also been runing the VR tutorial website wirewhiz.com for about 3-4 years.
+
+
 Braxton Meyer
 	I grew up in Boise, Idaho, have 5 brothers, served a mission in Boston, Massachusetts, and love video games.
 	My first major was Mechanical Engineering, but I just switched to Software Engineering, and I am having
@@ -17,3 +23,4 @@ Dallin Poole
 This is my biography paragraph. I'm from Texas, I've worked as an EMT in
 Austin TX. I speak a decent amount of Farsi and a bit less Arabic. 
 I'm a Software Engineering major and have no idea what I'm doing with my life.
+
