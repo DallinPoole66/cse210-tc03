@@ -10,5 +10,4 @@ def main():
     meyer.hellomeyer()
     fuller.cameron()
 
-if __name__ == "main":
-    main()
+main()
