@@ -9,8 +9,8 @@ Braxton Meyer
 	took before the mission, and all the python and javascript I've been able to get this first semester.
 
 Cameron Fuller
-This is a sentance about me. 
-
+I'm from Franklin, Idaho, served a mission in New Zealand and love McDonald's!
+I'm currently a Software Engineering major. 
 
 Dallin Poole
 
